@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FFF8E1" rx="12"/>
+  
+  <!-- rod -->
+  <rect x="97" y="25" width="6" height="120" fill="#FFD54F" stroke="#F57F17" stroke-width="1.5"/>
+  <!-- tip -->
+  <polygon points="100,15 95,30 105,30" fill="#FFC107" stroke="#F57F17" stroke-width="1"/>
+  <!-- lightning bolt -->
+  <polygon points="125,30 115,55 125,52 112,80 130,48 120,50 130,30" fill="#FFC107" stroke="#FF6F00" stroke-width="1"/>
+  <!-- conductor wire -->
+  <path d="M100,145 L100,155 Q100,165 90,165 L60,165" fill="none" stroke="#F57F17" stroke-width="2" stroke-dasharray="4,3"/>
+  <!-- ground symbol -->
+  <line x1="45" y1="160" x2="45" y2="170" stroke="#F57F17" stroke-width="2"/>
+  <line x1="35" y1="170" x2="55" y2="170" stroke="#F57F17" stroke-width="2"/>
+  <line x1="38" y1="174" x2="52" y2="174" stroke="#F57F17" stroke-width="1.5"/>
+  <line x1="41" y1="178" x2="49" y2="178" stroke="#F57F17" stroke-width="1"/>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#F57F17">Lightning Protection</text>
+
+</svg>

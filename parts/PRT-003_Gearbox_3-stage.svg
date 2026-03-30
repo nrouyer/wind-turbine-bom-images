@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#EFEBE9" rx="12"/>
+  
+  <rect x="35" y="55" width="130" height="85" rx="6" fill="#D7CCC8" stroke="#5D4037" stroke-width="2"/>
+  <circle cx="70" cy="95" r="22" fill="#BCAAA4" stroke="#5D4037" stroke-width="1.5"/>
+  <circle cx="70" cy="95" r="6" fill="#5D4037"/>
+  <circle cx="115" cy="95" r="14" fill="#BCAAA4" stroke="#5D4037" stroke-width="1.5"/>
+  <circle cx="115" cy="95" r="4" fill="#5D4037"/>
+  <circle cx="145" cy="95" r="8" fill="#BCAAA4" stroke="#5D4037" stroke-width="1.5"/>
+  <circle cx="145" cy="95" r="3" fill="#5D4037"/>
+  <rect x="15" y="89" width="25" height="12" rx="2" fill="#8D6E63"/>
+  <rect x="160" y="92" width="25" height="6" rx="2" fill="#8D6E63"/>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#5D4037">Gearbox 3-stage</text>
+
+</svg>

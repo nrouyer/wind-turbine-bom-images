@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#F1F8E9" rx="12"/>
+  <!-- blade root cross section -->
+  <circle cx="100" cy="90" r="40" fill="#DCEDC8" stroke="#33691E" stroke-width="2"/>
+  <circle cx="100" cy="90" r="30" fill="#F1F8E9" stroke="#33691E" stroke-width="1"/>
+  <!-- pitch bearing -->
+  <circle cx="100" cy="90" r="35" fill="none" stroke="#558B2F" stroke-width="3" stroke-dasharray="8,4"/>
+  <!-- blade direction arrow -->
+  <path d="M100,50 L100,20" stroke="#33691E" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="100" y="16" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#33691E">BLADE</text>
+  <!-- rotation arrow -->
+  <path d="M145,75 A50,50 0 0,1 130,135" fill="none" stroke="#689F38" stroke-width="2.5"/>
+  <polygon points="130,135 125,125 135,128" fill="#689F38"/>
+  <!-- motor -->
+  <rect x="55" y="120" width="20" height="28" rx="3" fill="#AED581" stroke="#33691E" stroke-width="1.5"/>
+  <text x="65" y="138" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#33691E">MTR</text>
+  <text x="100" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#33691E">Pitch System</text>
+
+</svg>

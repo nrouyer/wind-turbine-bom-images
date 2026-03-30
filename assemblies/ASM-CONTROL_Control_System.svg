@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#EDE7F6" rx="12"/>
+  <!-- controller box -->
+  <rect x="40" y="45" width="120" height="90" rx="6" fill="#D1C4E9" stroke="#4527A0" stroke-width="2"/>
+  <!-- screen -->
+  <rect x="55" y="55" width="55" height="35" rx="3" fill="#1A237E" stroke="#311B92" stroke-width="1"/>
+  <!-- screen content -->
+  <polyline points="60,82 68,70 76,78 84,62 92,75 100,68" fill="none" stroke="#69F0AE" stroke-width="1.5"/>
+  <!-- LEDs -->
+  <circle cx="125" y="65" r="4" fill="#4CAF50"/>
+  <circle cx="125" cy="78" r="4" fill="#FFC107"/>
+  <circle cx="125" cy="91" r="4" fill="#F44336"/>
+  <!-- ports -->
+  <rect x="55" y="100" width="8" height="6" rx="1" fill="#7E57C2"/>
+  <rect x="68" y="100" width="8" height="6" rx="1" fill="#7E57C2"/>
+  <rect x="81" y="100" width="8" height="6" rx="1" fill="#7E57C2"/>
+  <rect x="94" y="100" width="8" height="6" rx="1" fill="#7E57C2"/>
+  <!-- antenna -->
+  <line x1="145" y1="45" x2="155" y2="25" stroke="#4527A0" stroke-width="2"/>
+  <circle cx="155" cy="22" r="3" fill="#7C4DFF"/>
+  <!-- signal waves -->
+  <path d="M160,18 Q165,15 165,22" fill="none" stroke="#7C4DFF" stroke-width="1"/>
+  <path d="M163,14 Q170,10 170,22" fill="none" stroke="#7C4DFF" stroke-width="1"/>
+  <text x="100" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#4527A0">SCADA / PLC</text>
+  <text x="100" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#4527A0">Control System</text>
+
+</svg>

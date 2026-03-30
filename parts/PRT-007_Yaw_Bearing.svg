@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#E0F7FA" rx="12"/>
+  
+  <circle cx="100" cy="95" r="50" fill="#B2EBF2" stroke="#006064" stroke-width="2"/>
+  <circle cx="100" cy="95" r="38" fill="#E0F7FA" stroke="#006064" stroke-width="1.5"/>
+  <circle cx="100" cy="95" r="30" fill="#B2EBF2" stroke="#006064" stroke-width="1"/>
+  <!-- ball bearings -->
+  <circle cx="100" cy="61" r="5" fill="#4DD0E1" stroke="#006064" stroke-width="1"/>
+  <circle cx="129" cy="72" r="5" fill="#4DD0E1" stroke="#006064" stroke-width="1"/>
+  <circle cx="139" cy="95" r="5" fill="#4DD0E1" stroke="#006064" stroke-width="1"/>
+  <circle cx="129" cy="118" r="5" fill="#4DD0E1" stroke="#006064" stroke-width="1"/>
+  <circle cx="100" cy="129" r="5" fill="#4DD0E1" stroke="#006064" stroke-width="1"/>
+  <circle cx="71" cy="118" r="5" fill="#4DD0E1" stroke="#006064" stroke-width="1"/>
+  <circle cx="61" cy="95" r="5" fill="#4DD0E1" stroke="#006064" stroke-width="1"/>
+  <circle cx="71" cy="72" r="5" fill="#4DD0E1" stroke="#006064" stroke-width="1"/>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#006064">Yaw Bearing</text>
+
+</svg>

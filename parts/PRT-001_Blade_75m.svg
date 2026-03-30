@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#E8F5E9" rx="12"/>
+  
+  <path d="M100,20 Q108,50 112,80 Q115,120 110,155 Q108,165 100,168 Q92,165 90,155 Q85,120 88,80 Q92,50 100,20" fill="#A5D6A7" stroke="#2E7D32" stroke-width="1.5"/>
+  <line x1="100" y1="25" x2="100" y2="165" stroke="#2E7D32" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <text x="125" y="95" font-family="Arial,sans-serif" font-size="8" fill="#2E7D32">75m</text>
+  <text x="125" y="108" font-family="Arial,sans-serif" font-size="7" fill="#388E3C">12.5t</text>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#2E7D32">Blade 75m</text>
+
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <defs>
+    <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFE4B5"/>
+      <stop offset="100%" stop-color="#FFF8E7"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#sky3)" rx="12"/>
+  <rect x="0" y="175" width="200" height="25" fill="#C2B280" rx="0 0 12 12"/>
+  <!-- tower -->
+  <polygon points="95,175 105,175 102,50 98,50" fill="#E0E0E0" stroke="#999" stroke-width="1"/>
+  <!-- nacelle -->
+  <rect x="87" y="42" width="26" height="14" rx="3" fill="#D5D5D5" stroke="#888" stroke-width="1"/>
+  <!-- hub -->
+  <circle cx="100" cy="47" r="5.5" fill="#B5B5B5" stroke="#888" stroke-width="1"/>
+  <!-- blades (81.5m) -->
+  <ellipse cx="100" cy="16" rx="4.2" ry="30" fill="#F5F5F5" stroke="#AAA" stroke-width="0.8" transform="rotate(-10,100,47)"/>
+  <ellipse cx="100" cy="16" rx="4.2" ry="30" fill="#F5F5F5" stroke="#AAA" stroke-width="0.8" transform="rotate(110,100,47)"/>
+  <ellipse cx="100" cy="16" rx="4.2" ry="30" fill="#F5F5F5" stroke="#AAA" stroke-width="0.8" transform="rotate(230,100,47)"/>
+  <!-- label -->
+  <text x="100" y="196" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#5D4037">Nordex N163 — 5.7 MW</text>
+
+</svg>

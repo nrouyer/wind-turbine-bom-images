@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#ECEFF1" rx="12"/>
+  
+  <polygon points="70,40 130,40 135,160 65,160" fill="#CFD8DC" stroke="#546E7A" stroke-width="2"/>
+  <ellipse cx="100" cy="40" rx="30" ry="8" fill="#B0BEC5" stroke="#546E7A" stroke-width="1.5"/>
+  <ellipse cx="100" cy="160" rx="35" ry="9" fill="#90A4AE" stroke="#546E7A" stroke-width="1.5"/>
+  <text x="100" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#546E7A">3.5m dia</text>
+  <text x="145" y="105" font-family="Arial,sans-serif" font-size="7" fill="#546E7A">45t</text>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#546E7A">Tower Section Top</text>
+
+</svg>

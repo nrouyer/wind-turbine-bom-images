@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FFFDE7" rx="12"/>
+  
+  <!-- oil can -->
+  <rect x="60" y="55" width="80" height="90" rx="6" fill="#F0F4C3" stroke="#827717" stroke-width="2"/>
+  <rect x="75" y="40" width="50" height="20" rx="4" fill="#E6EE9C" stroke="#827717" stroke-width="1.5"/>
+  <!-- cap -->
+  <rect x="88" y="30" width="24" height="14" rx="3" fill="#CDDC39" stroke="#827717" stroke-width="1.5"/>
+  <!-- oil level -->
+  <rect x="65" y="90" width="70" height="50" rx="0 0 4 4" fill="#FFD54F" opacity="0.6"/>
+  <!-- wave -->
+  <path d="M65,90 Q80,85 100,90 Q120,95 135,90" fill="none" stroke="#F9A825" stroke-width="1.5"/>
+  <text x="100" y="115" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#827717">PAO</text>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#827717">Gearbox Oil</text>
+
+</svg>

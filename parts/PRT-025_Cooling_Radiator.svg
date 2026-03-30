@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#E0F2F1" rx="12"/>
+  
+  <rect x="40" y="45" width="120" height="85" rx="5" fill="#B2DFDB" stroke="#004D40" stroke-width="2"/>
+  <!-- fins -->
+  <line x1="50" y1="50" x2="50" y2="125" stroke="#00897B" stroke-width="2"/>
+  <line x1="62" y1="50" x2="62" y2="125" stroke="#00897B" stroke-width="2"/>
+  <line x1="74" y1="50" x2="74" y2="125" stroke="#00897B" stroke-width="2"/>
+  <line x1="86" y1="50" x2="86" y2="125" stroke="#00897B" stroke-width="2"/>
+  <line x1="98" y1="50" x2="98" y2="125" stroke="#00897B" stroke-width="2"/>
+  <line x1="110" y1="50" x2="110" y2="125" stroke="#00897B" stroke-width="2"/>
+  <line x1="122" y1="50" x2="122" y2="125" stroke="#00897B" stroke-width="2"/>
+  <line x1="134" y1="50" x2="134" y2="125" stroke="#00897B" stroke-width="2"/>
+  <line x1="146" y1="50" x2="146" y2="125" stroke="#00897B" stroke-width="2"/>
+  <!-- pipes -->
+  <circle cx="55" cy="140" r="8" fill="#80CBC4" stroke="#004D40" stroke-width="1.5"/>
+  <circle cx="145" cy="140" r="8" fill="#80CBC4" stroke="#004D40" stroke-width="1.5"/>
+  <text x="55" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#004D40">IN</text>
+  <text x="145" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#004D40">OUT</text>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#004D40">Cooling Radiator</text>
+
+</svg>

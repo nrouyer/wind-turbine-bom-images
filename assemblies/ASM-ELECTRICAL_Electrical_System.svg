@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FFF8E1" rx="12"/>
+  <!-- transformer -->
+  <rect x="25" y="60" width="50" height="70" rx="4" fill="#FFE082" stroke="#F57F17" stroke-width="1.5"/>
+  <circle cx="40" cy="85" r="12" fill="none" stroke="#F57F17" stroke-width="2"/>
+  <circle cx="60" cy="85" r="12" fill="none" stroke="#F57F17" stroke-width="2"/>
+  <text x="50" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#F57F17">XFMR</text>
+  <!-- converter -->
+  <rect x="100" y="60" width="50" height="40" rx="4" fill="#FFECB3" stroke="#F57F17" stroke-width="1.5"/>
+  <text x="125" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#F57F17">CONV</text>
+  <!-- sine wave -->
+  <path d="M107,75 Q112,65 117,75 Q122,85 127,75 Q132,65 137,75 Q142,85 147,75" fill="none" stroke="#FF8F00" stroke-width="1"/>
+  <!-- switchgear -->
+  <rect x="100" y="110" width="50" height="30" rx="4" fill="#FFECB3" stroke="#F57F17" stroke-width="1.5"/>
+  <text x="125" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#F57F17">SWGR</text>
+  <!-- connections -->
+  <line x1="75" y1="85" x2="100" y2="80" stroke="#FF6F00" stroke-width="2"/>
+  <line x1="125" y1="100" x2="125" y2="110" stroke="#FF6F00" stroke-width="2"/>
+  <!-- lightning bolt -->
+  <polygon points="170,50 162,72 170,70 160,95 175,68 167,70 175,50" fill="#FFC107" stroke="#F57F17" stroke-width="0.5"/>
+  <text x="100" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#F57F17">Electrical System</text>
+
+</svg>

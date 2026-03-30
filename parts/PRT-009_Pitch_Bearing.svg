@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#F1F8E9" rx="12"/>
+  
+  <circle cx="100" cy="95" r="45" fill="#DCEDC8" stroke="#33691E" stroke-width="2"/>
+  <circle cx="100" cy="95" r="32" fill="#F1F8E9" stroke="#33691E" stroke-width="1.5"/>
+  <!-- four-point contact -->
+  <circle cx="100" cy="58" r="4" fill="#8BC34A" stroke="#33691E" stroke-width="1"/>
+  <circle cx="137" cy="82" r="4" fill="#8BC34A" stroke="#33691E" stroke-width="1"/>
+  <circle cx="137" cy="108" r="4" fill="#8BC34A" stroke="#33691E" stroke-width="1"/>
+  <circle cx="100" cy="132" r="4" fill="#8BC34A" stroke="#33691E" stroke-width="1"/>
+  <circle cx="63" cy="108" r="4" fill="#8BC34A" stroke="#33691E" stroke-width="1"/>
+  <circle cx="63" cy="82" r="4" fill="#8BC34A" stroke="#33691E" stroke-width="1"/>
+  <!-- bolt holes -->
+  <circle cx="100" cy="52" r="2" fill="#33691E"/>
+  <circle cx="140" cy="78" r="2" fill="#33691E"/>
+  <circle cx="140" cy="112" r="2" fill="#33691E"/>
+  <circle cx="100" cy="138" r="2" fill="#33691E"/>
+  <circle cx="60" cy="112" r="2" fill="#33691E"/>
+  <circle cx="60" cy="78" r="2" fill="#33691E"/>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#33691E">Pitch Bearing</text>
+
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FFF8E1" rx="12"/>
+  
+  <rect x="30" y="45" width="140" height="90" rx="6" fill="#FFF9C4" stroke="#F57F17" stroke-width="2"/>
+  <!-- IGBT modules -->
+  <rect x="42" y="58" width="25" height="30" rx="2" fill="#FFE082" stroke="#F57F17" stroke-width="1"/>
+  <rect x="72" y="58" width="25" height="30" rx="2" fill="#FFE082" stroke="#F57F17" stroke-width="1"/>
+  <rect x="102" y="58" width="25" height="30" rx="2" fill="#FFE082" stroke="#F57F17" stroke-width="1"/>
+  <rect x="132" y="58" width="25" height="30" rx="2" fill="#FFE082" stroke="#F57F17" stroke-width="1"/>
+  <!-- sine wave -->
+  <path d="M42,110 Q55,95 68,110 Q81,125 94,110 Q107,95 120,110 Q133,125 146,110" fill="none" stroke="#FF6F00" stroke-width="2"/>
+  <!-- connectors -->
+  <rect x="45" y="135" width="15" height="10" rx="2" fill="#FFA000"/>
+  <rect x="93" y="135" width="15" height="10" rx="2" fill="#FFA000"/>
+  <rect x="140" y="135" width="15" height="10" rx="2" fill="#FFA000"/>
+  <text x="48" y="143" font-family="Arial,sans-serif" font-size="5" fill="#FFF">AC</text>
+  <text x="97" y="143" font-family="Arial,sans-serif" font-size="5" fill="#FFF">DC</text>
+  <text x="143" y="143" font-family="Arial,sans-serif" font-size="5" fill="#FFF">AC</text>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#F57F17">Power Converter</text>
+
+</svg>

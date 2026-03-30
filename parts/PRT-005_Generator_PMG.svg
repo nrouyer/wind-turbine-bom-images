@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#E8EAF6" rx="12"/>
+  
+  <ellipse cx="100" cy="95" rx="55" ry="48" fill="#C5CAE9" stroke="#1A237E" stroke-width="2"/>
+  <ellipse cx="100" cy="95" rx="40" ry="35" fill="#9FA8DA" stroke="#1A237E" stroke-width="1.5"/>
+  <!-- magnets N/S -->
+  <rect x="65" y="78" width="12" height="20" rx="2" fill="#F44336" stroke="#B71C1C" stroke-width="0.8"/>
+  <text x="71" y="92" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#FFF">N</text>
+  <rect x="123" y="78" width="12" height="20" rx="2" fill="#2196F3" stroke="#0D47A1" stroke-width="0.8"/>
+  <text x="129" y="92" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#FFF">S</text>
+  <circle cx="100" cy="95" r="12" fill="#7986CB" stroke="#1A237E" stroke-width="1.5"/>
+  <circle cx="100" cy="95" r="4" fill="#1A237E"/>
+  <text x="100" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#1A237E">PMG 5.8MW</text>
+  <text x="100" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#C62828">NdFeB Magnets</text>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A237E">Generator PMG</text>
+
+</svg>

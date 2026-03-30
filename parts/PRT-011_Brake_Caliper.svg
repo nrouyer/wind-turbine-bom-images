@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FCE4EC" rx="12"/>
+  
+  <path d="M60,55 L140,55 L150,65 L150,125 L140,135 L60,135 L50,125 L50,65 Z" fill="#FFCDD2" stroke="#C62828" stroke-width="2"/>
+  <rect x="70" y="70" width="60" height="50" rx="4" fill="#EF9A9A" stroke="#C62828" stroke-width="1.5"/>
+  <circle cx="100" cy="95" r="12" fill="#FFCDD2" stroke="#C62828" stroke-width="1.5"/>
+  <rect x="85" y="60" width="30" height="10" rx="2" fill="#E57373" stroke="#C62828" stroke-width="1"/>
+  <text x="100" y="68" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#FFF">HYD</text>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#C62828">Brake Caliper</text>
+
+</svg>

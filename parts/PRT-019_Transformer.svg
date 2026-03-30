@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FFF8E1" rx="12"/>
+  
+  <rect x="40" y="45" width="120" height="100" rx="6" fill="#FFE0B2" stroke="#E65100" stroke-width="2"/>
+  <!-- core -->
+  <rect x="55" y="55" width="90" height="80" rx="3" fill="#FFCC80" stroke="#E65100" stroke-width="1.5"/>
+  <!-- windings -->
+  <circle cx="80" cy="95" r="18" fill="none" stroke="#BF360C" stroke-width="3"/>
+  <circle cx="120" cy="95" r="18" fill="none" stroke="#BF360C" stroke-width="3"/>
+  <text x="80" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#BF360C">LV</text>
+  <text x="120" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#BF360C">HV</text>
+  <!-- terminals -->
+  <line x1="80" y1="45" x2="80" y2="35" stroke="#E65100" stroke-width="2"/>
+  <line x1="120" y1="45" x2="120" y2="35" stroke="#E65100" stroke-width="2"/>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#E65100">33 kV</text>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#E65100">Transformer</text>
+
+</svg>

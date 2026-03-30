@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <defs>
+    <linearGradient id="sky1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#87CEEB"/>
+      <stop offset="100%" stop-color="#E0F0FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#sky1)" rx="12"/>
+  <!-- ground -->
+  <rect x="0" y="175" width="200" height="25" fill="#8FBC8F" rx="0 0 12 12"/>
+  <!-- tower -->
+  <polygon points="95,175 105,175 102,55 98,55" fill="#E0E0E0" stroke="#999" stroke-width="1"/>
+  <!-- nacelle -->
+  <rect x="88" y="48" width="24" height="12" rx="3" fill="#D0D0D0" stroke="#888" stroke-width="1"/>
+  <!-- hub -->
+  <circle cx="100" cy="52" r="5" fill="#B0B0B0" stroke="#888" stroke-width="1"/>
+  <!-- blades -->
+  <ellipse cx="100" cy="22" rx="4" ry="28" fill="#F5F5F5" stroke="#AAA" stroke-width="0.8" transform="rotate(0,100,52)"/>
+  <ellipse cx="100" cy="22" rx="4" ry="28" fill="#F5F5F5" stroke="#AAA" stroke-width="0.8" transform="rotate(120,100,52)"/>
+  <ellipse cx="100" cy="22" rx="4" ry="28" fill="#F5F5F5" stroke="#AAA" stroke-width="0.8" transform="rotate(240,100,52)"/>
+  <!-- label -->
+  <text x="100" y="196" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#2E7D32">Vestas V150 — 4.2 MW</text>
+
+</svg>

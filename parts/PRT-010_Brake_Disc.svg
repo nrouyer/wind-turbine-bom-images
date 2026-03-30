@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FCE4EC" rx="12"/>
+  
+  <circle cx="100" cy="95" r="48" fill="#F8BBD0" stroke="#880E4F" stroke-width="2"/>
+  <circle cx="100" cy="95" r="35" fill="#FCE4EC" stroke="#AD1457" stroke-width="1"/>
+  <circle cx="100" cy="95" r="15" fill="#F48FB1" stroke="#880E4F" stroke-width="1.5"/>
+  <circle cx="100" cy="95" r="5" fill="#880E4F"/>
+  <circle cx="100" cy="72" r="3" fill="#FCE4EC"/>
+  <circle cx="120" cy="82" r="3" fill="#FCE4EC"/>
+  <circle cx="120" cy="108" r="3" fill="#FCE4EC"/>
+  <circle cx="100" cy="118" r="3" fill="#FCE4EC"/>
+  <circle cx="80" cy="108" r="3" fill="#FCE4EC"/>
+  <circle cx="80" cy="82" r="3" fill="#FCE4EC"/>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#880E4F">Brake Disc</text>
+
+</svg>

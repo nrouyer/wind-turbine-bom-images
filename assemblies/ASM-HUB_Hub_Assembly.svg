@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#E3F2FD" rx="12"/>
+  <!-- hub body -->
+  <circle cx="100" cy="95" r="35" fill="#90CAF9" stroke="#1565C0" stroke-width="2"/>
+  <!-- blade mounting holes -->
+  <circle cx="100" cy="60" r="8" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5"/>
+  <circle cx="130" cy="110" r="8" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5"/>
+  <circle cx="70" cy="110" r="8" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5"/>
+  <!-- center shaft hole -->
+  <circle cx="100" cy="95" r="12" fill="#BBDEFB" stroke="#1565C0" stroke-width="2"/>
+  <circle cx="100" cy="95" r="5" fill="#1565C0"/>
+  <!-- bolts -->
+  <circle cx="100" cy="60" r="3" fill="#1565C0"/>
+  <circle cx="130" cy="110" r="3" fill="#1565C0"/>
+  <circle cx="70" cy="110" r="3" fill="#1565C0"/>
+  <text x="100" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0">Hub Assembly</text>
+
+</svg>

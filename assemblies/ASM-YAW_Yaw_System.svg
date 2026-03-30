@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#E0F7FA" rx="12"/>
+  <!-- yaw bearing ring -->
+  <ellipse cx="100" cy="100" rx="55" ry="20" fill="#B2EBF2" stroke="#00695C" stroke-width="2"/>
+  <ellipse cx="100" cy="100" rx="45" ry="15" fill="#E0F7FA" stroke="#00695C" stroke-width="1"/>
+  <!-- tower top -->
+  <polygon points="70,100 130,100 125,170 75,170" fill="#B2DFDB" stroke="#00695C" stroke-width="1.5"/>
+  <!-- nacelle base -->
+  <rect x="55" y="75" width="90" height="25" rx="4" fill="#80CBC4" stroke="#00695C" stroke-width="1.5"/>
+  <!-- rotation arrow -->
+  <path d="M160,100 A60,22 0 0,1 100,122" fill="none" stroke="#00695C" stroke-width="2" marker-end="url(#arr)"/>
+  <path d="M40,100 A60,22 0 0,1 100,78" fill="none" stroke="#00695C" stroke-width="2" marker-end="url(#arr)"/>
+  <!-- yaw motors -->
+  <rect x="60" y="100" width="12" height="18" rx="2" fill="#4DB6AC" stroke="#00695C" stroke-width="1"/>
+  <rect x="128" y="100" width="12" height="18" rx="2" fill="#4DB6AC" stroke="#00695C" stroke-width="1"/>
+  <text x="100" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#00695C">Yaw System</text>
+
+</svg>

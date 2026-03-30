@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FFF3E0" rx="12"/>
+  <!-- nacelle body -->
+  <path d="M30,130 L30,90 Q30,75 45,70 L155,70 Q175,70 175,85 L175,130 Z" fill="#FFE0B2" stroke="#E65100" stroke-width="1.5"/>
+  <!-- roof curve -->
+  <path d="M30,90 Q100,55 175,85" fill="none" stroke="#E65100" stroke-width="1"/>
+  <!-- gearbox inside -->
+  <rect x="50" y="85" width="30" height="30" rx="3" fill="#FFCC80" stroke="#E65100" stroke-width="1"/>
+  <text x="65" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#E65100">GBX</text>
+  <!-- generator inside -->
+  <circle cx="120" cy="100" r="18" fill="#FFCC80" stroke="#E65100" stroke-width="1"/>
+  <text x="120" y="103" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#E65100">GEN</text>
+  <!-- shaft -->
+  <line x1="80" y1="100" x2="102" y2="100" stroke="#BF360C" stroke-width="3"/>
+  <!-- base -->
+  <rect x="25" y="130" width="155" height="8" fill="#E65100" rx="2"/>
+  <text x="100" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#E65100">Nacelle Assembly</text>
+
+</svg>

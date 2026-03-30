@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+
+
+  <rect width="200" height="200" fill="#FFF3E0" rx="12"/>
+  
+  <circle cx="100" cy="95" r="45" fill="#FFE0B2" stroke="#E65100" stroke-width="2"/>
+  <circle cx="100" cy="95" r="30" fill="#FFF3E0" stroke="#E65100" stroke-width="1.5"/>
+  <circle cx="100" cy="95" r="18" fill="#FFCC80" stroke="#E65100" stroke-width="1.5"/>
+  <circle cx="100" cy="95" r="8" fill="#E65100"/>
+  <!-- rollers -->
+  <ellipse cx="100" cy="60" rx="4" ry="7" fill="#FF9800" stroke="#E65100" stroke-width="0.8"/>
+  <ellipse cx="130" cy="82" rx="4" ry="7" fill="#FF9800" stroke="#E65100" stroke-width="0.8" transform="rotate(55,130,82)"/>
+  <ellipse cx="130" cy="112" rx="4" ry="7" fill="#FF9800" stroke="#E65100" stroke-width="0.8" transform="rotate(110,130,112)"/>
+  <ellipse cx="100" cy="130" rx="4" ry="7" fill="#FF9800" stroke="#E65100" stroke-width="0.8"/>
+  <ellipse cx="70" cy="112" rx="4" ry="7" fill="#FF9800" stroke="#E65100" stroke-width="0.8" transform="rotate(-110,70,112)"/>
+  <ellipse cx="70" cy="82" rx="4" ry="7" fill="#FF9800" stroke="#E65100" stroke-width="0.8" transform="rotate(-55,70,82)"/>
+
+  <text x="100" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#E65100">Main Bearing</text>
+
+</svg>
